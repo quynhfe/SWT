@@ -1,7 +1,9 @@
 package quynhttn.example;
 
-interface Constants {
-    int MAX_USERS = 100;
+
+class Constants {
+    int maxUser = 100;
+
 }
 
 public class InterfaceFieldModificationExample {
